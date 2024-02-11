@@ -1,0 +1,26 @@
+
+header{
+    background-color: #1ABC9C;
+}
+
+.line::after {
+    content: "";
+    display: block; 
+    border: 2px solid white;
+    width: 100px; 
+    margin-left: auto;
+    
+}
+.content{
+    padding: 20em;
+}
+.content h1 {
+    font-weight: 700;
+}
+#conten-rwo{
+    padding-top: 65px;
+}
+.icon i{
+    border: 1px solid #fff;
+    border-radius: 50%;
+}

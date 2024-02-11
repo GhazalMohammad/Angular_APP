@@ -1,0 +1,13 @@
+nav{
+    background-color: #2C3E50;
+}
+nav{
+
+    left: 0;
+    right: 0;
+}
+.navbar-nav a{
+    font-weight: 700;
+    color: white;
+  
+}
